@@ -1,0 +1,12 @@
+# IDE
+.idea
+
+# NodeJS
+node_modules
+npm-debug.log
+
+# Plugin files and folders
+jshint_checkstyle.xml
+temp
+.artifacts
+test_reports

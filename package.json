@@ -1,0 +1,40 @@
+{
+  "name": "grunt-nexus-downloader",
+  "description": "A plugin for downloading artifacts from a Nexus repository",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": "Krasimir Chariyski",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Chariyski/grunt-nexus-downloader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/......"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "q": "^1.0.1",
+    "request": "^2.45.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "jshint-stylish": "^2.0.1",
+    "nock": "^2.10.0"
+  },
+  "keywords": [
+    "gruntplugin",
+    "nexus",
+    "artifact",
+    "download"
+  ]
+}
