@@ -2,16 +2,17 @@
   "name": "grunt-nexus-downloader",
   "description": "A plugin for downloading artifacts from a Nexus repository",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://github.com/Chariyski/grunt-nexus-downloader",
   "author": "Krasimir Chariyski",
+  "email" : "kr.chariyski@gmail.com",
   "repository": {
     "type": "git",
     "url": "git@github.com:Chariyski/grunt-nexus-downloader.git"
   },
   "bugs": {
-    "url": "https://github.com/......"
+    "url": "https://github.com/Chariyski/grunt-nexus-downloader/issues"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "engines": {
     "node": ">= 0.10.0"
   },
