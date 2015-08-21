@@ -1,7 +1,6 @@
 # grunt-nexus-downloader v1.0.0 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Build Status](https://travis-ci.org/Chariyski/grunt-nexus-downloader.svg?branch=master)](https://travis-ci.org/Chariyski/grunt-nexus-downloader)
-[![Coverage Status](https://coveralls.io/repos/Chariyski/grunt-nexus-downloader/badge.svg?branch=master&service=github)](https://coveralls.io/github/Chariyski/grunt-nexus-downloader?branch=master)
 [![Dependency Status](https://david-dm.org/Chariyski/grunt-nexus-downloader.svg)](https://david-dm.org/Chariyski/grunt-nexus-downloader) 
 [![devDependency Status](https://david-dm.org/Chariyski/grunt-nexus-downloader/dev-status.svg)](https://david-dm.org/Chariyski/grunt-nexus-downloader#info=devDependencies)
 [![NPM](https://nodei.co/npm/grunt-nexus-downloader.png?downloads=true&stars=true)](https://nodei.co/npm/grunt-nexus-downloader/)
