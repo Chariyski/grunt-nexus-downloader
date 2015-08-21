@@ -1,4 +1,4 @@
-# grunt-nexus-downloader v1.0.0 
+# grunt-nexus-downloader v0.1.0 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Build Status](https://travis-ci.org/Chariyski/grunt-nexus-downloader.svg?branch=master)](https://travis-ci.org/Chariyski/grunt-nexus-downloader)
 [![Dependency Status](https://david-dm.org/Chariyski/grunt-nexus-downloader.svg)](https://david-dm.org/Chariyski/grunt-nexus-downloader) 
@@ -115,5 +115,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 
 ## Release History
-
- * 2015-08-20   v1.0.0   First public release.
+ * 2015-08-20   v0.1.0   First public release.
