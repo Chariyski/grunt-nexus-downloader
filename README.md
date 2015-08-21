@@ -112,7 +112,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## License
 
-Apache-2.0
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 
 ## Release History
 
