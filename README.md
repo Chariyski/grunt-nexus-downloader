@@ -1,4 +1,10 @@
-# grunt-nexus-downloader v1.0.0 [![Build Status](https://travis-ci.org/Chariyski/grunt-nexus-downloader.svg?branch=master)](https://travis-ci.org/Chariyski/grunt-nexus-downloader)
+# grunt-nexus-downloader v1.0.0 
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![Build Status](https://travis-ci.org/Chariyski/grunt-nexus-downloader.svg?branch=master)](https://travis-ci.org/Chariyski/grunt-nexus-downloader)
+[![Coverage Status](https://coveralls.io/repos/Chariyski/grunt-nexus-downloader/badge.svg?branch=master&service=github)](https://coveralls.io/github/Chariyski/grunt-nexus-downloader?branch=master)
+[![Dependency Status](https://david-dm.org/Chariyski/grunt-nexus-downloader.svg)](https://david-dm.org/Chariyski/grunt-nexus-downloader) 
+[![devDependency Status](https://david-dm.org/Chariyski/grunt-nexus-downloader/dev-status.svg)](https://david-dm.org/Chariyski/grunt-nexus-downloader#info=devDependencies)
+[![NPM](https://nodei.co/npm/grunt-nexus-downloader.png?downloads=true&stars=true)](https://nodei.co/npm/grunt-nexus-downloader/)
 
 > A plugin for downloading artifacts from Sonatype's Nexus repository.  
 > Tested under Linux and Windows.
@@ -105,10 +111,10 @@ The directory where artifacts will be downloaded to.
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
-## Dependencies
+## License
 
-[![Dependency Status](https://david-dm.org/Chariyski/grunt-nexus-downloader.svg)](https://david-dm.org/Chariyski/grunt-nexus-downloader) 
-[![devDependency Status](https://david-dm.org/Chariyski/grunt-nexus-downloader/dev-status.svg)](https://david-dm.org/Chariyski/grunt-nexus-downloader#info=devDependencies)
+Apache-2.0
+
 ## Release History
 
  * 2015-08-20   v1.0.0   First public release.
